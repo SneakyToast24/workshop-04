@@ -20,8 +20,8 @@ Workshop challenges are __marked out of 2__, with one mark for attendance and on
 
 - List item 1
 - List item 2
-    - sud item 1
-    - sud item 2
+    -- sud item 1
+    -- sud item 2
 - List item 3
 
 ### Ordered list
@@ -32,12 +32,11 @@ Workshop challenges are __marked out of 2__, with one mark for attendance and on
     2. sud item 2
 3. Third item
 
-
 ## Images
 
 ![the workshop paragraph for 2430 syllabus](./workshop.png)
 
-## Hyperinks 
+## Hyperlinks  
 
 [Online Syllabus System](https://www.trentu.ca/syllabus)
 
@@ -45,8 +44,7 @@ Workshop challenges are __marked out of 2__, with one mark for attendance and on
 
 in HTML the `<img>`
 
-
-### code fence 
+### code fence
 
 ```html
 <nav>
